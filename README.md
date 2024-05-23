@@ -4,7 +4,7 @@
   <br>
   <br>
 
-[![Build](https://github.com/binnbe/ci/actions/workflows/docker.yml/badge.svg?branch=main)](https://github.com/binnbe/ci/actions/workflows/docker.yml)
+[![Docker Build](https://github.com/binnbe/ci/actions/workflows/docker.yml/badge.svg)](https://github.com/binnbe/ci/actions/workflows/docker.yml)
 [![API Documentation](https://img.shields.io/badge/api-documentation-blue)](https://developers.binnbe.com)
 </h1>
 
