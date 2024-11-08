@@ -1,6 +1,6 @@
-FROM postgres:17.0-alpine3.20 AS postgresql
+FROM postgres:17.0-alpine AS postgresql
 
-FROM redis:7.4.1-alpine3.20 AS redis
+FROM redis:7.4.1-alpine AS redis
 
 FROM clickhouse/clickhouse-server:24.3.13-alpine AS clickhouse
 
