@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo--font.png" alt="binnbe">
+  <img src=".github/logo--font.png" alt="binnbe">
 
   <br>
   <br>
