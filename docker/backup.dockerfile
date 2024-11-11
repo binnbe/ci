@@ -2,7 +2,7 @@ FROM postgres:17.0-alpine AS postgresql
 
 FROM redis:7.4.1-alpine AS redis
 
-FROM clickhouse/clickhouse-server:24.3.13-alpine AS clickhouse
+FROM clickhouse/clickhouse-server:24.10.1.2812-alpine AS clickhouse
 
 FROM alpine:3.20.3
 
