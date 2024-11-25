@@ -1,4 +1,4 @@
-FROM postgres:17.1-alpine AS postgresql
+FROM postgres:17.2-alpine AS postgresql
 
 FROM redis:7.4.1-alpine AS redis
 
