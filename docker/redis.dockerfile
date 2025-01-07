@@ -1,4 +1,4 @@
-FROM redis:7.4.1-alpine
+FROM redis:7.4.2-alpine
 
 COPY docker/entrypoint.sh /binnbe-entrypoint.sh
 
