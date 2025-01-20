@@ -1,5 +1,5 @@
 # syntax = docker/dockerfile:1.4
-ARG BASE_IMAGE=ubuntu:lunar
+ARG BASE_IMAGE=ubuntu:24.04
 
 FROM $BASE_IMAGE
 
