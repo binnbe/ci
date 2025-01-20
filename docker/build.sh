@@ -19,6 +19,9 @@ apt-get install -y --no-install-recommends \
         clang-format \
         ninja-build \
         nasm \
+        yasm \
+        meson \
+        libtool \
         autoconf \
         automake \
         build-essential \
