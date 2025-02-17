@@ -4,7 +4,7 @@ FROM redis:7.4.2-alpine AS redis
 
 FROM clickhouse/clickhouse-server:25.1.3.23-alpine AS clickhouse
 
-FROM alpine:3.21.2
+FROM alpine:3.21.3
 
 RUN apk add --no-cache \
     bash \
