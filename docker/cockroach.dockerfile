@@ -1,4 +1,4 @@
-FROM cockroachdb/cockroach:v24.3.4
+FROM cockroachdb/cockroach:v25.1.1
 
 COPY docker/entrypoint.sh /binnbe-entrypoint.sh
 
